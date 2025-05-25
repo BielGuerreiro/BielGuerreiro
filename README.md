@@ -74,4 +74,22 @@ O que estou fazendo agora:
   </a>   
 </div>
 </p>
+<br>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img 
+        alt="Github status"
+        height="230"
+        src="https://github-readme-stats.vercel.app/api?username=BielGuerreiro&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
+    />
+    <img 
+        alt="Github status"
+        height="230"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielguerreiro&theme=dark&custom_title=tecnologias&langs_count=5"
+    />
+</div>
+
+
+
+
 
