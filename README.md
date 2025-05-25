@@ -85,7 +85,7 @@ O que estou fazendo agora:
     <img 
         alt="Github status"
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielguerreiro&theme=dark&custom_title=tecnologias&langs_count=5"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielguerreiro&theme=dark&custom_title=Tecnologias&langs_count=9"
     />
 </div>
 
