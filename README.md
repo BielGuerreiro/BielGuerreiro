@@ -69,7 +69,7 @@ O que estou fazendo agora:
   <a href="https://www.linkedin.com/in/gabriel-guerreiro-46a5b225a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></>
   </a>
-  <a href="">
+  <a href="https://discord.com/users/579468974513848371">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></>
   </a>   
 </div>
