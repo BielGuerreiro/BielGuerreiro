@@ -8,7 +8,7 @@
 O que estou fazendo agora:
 - 🚀 Estou desenvolvendo meu primeiro site, que espero colocar no ar em breve. É um projeto pessoal onde aplico tudo o que venho aprendendo e experimento novas ideias.
 
-### < Linguagens usadas />
+### < Tecnologias />
 
 <img 
     align="left"
@@ -29,8 +29,8 @@ O que estou fazendo agora:
     
 <img 
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="js"
+    title="js"
     width="30px"
     style="padding-right: 20px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
@@ -38,8 +38,8 @@ O que estou fazendo agora:
     
 <img 
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="mysql"
+    title="mysql"
     width="40px"
     style="padding-right: 20px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
@@ -47,45 +47,44 @@ O que estou fazendo agora:
     
 <img 
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="nodejs"
+    title="nodejs"
     width="40px"
     style="padding-right: 20px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+
+<img 
+    align="left"
+    alt="react"
+    title="react"
+    width="40px"
+    style="padding-right: 20px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
     
 <br>
 
----
+##
 
-
-<p align="left">
-<div style="display: inline_block">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bielguerreiro2526@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/guerreirxz/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></>
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-guerreiro-46a5b225a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></>
-  </a>
-  <a href="https://discord.com/users/579468974513848371">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></>
-  </a>   
+<div> 
+    <a href="https://instagram.com/guerreirxz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://discord.gg/579468974513848371" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:bielguerreiro2526@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gabriel-guerreiro-46a5b225a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-</p>
+          
 <br>
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img 
         alt="Github status"
         height="200"
-        src="https://github-readme-stats.vercel.app/api?username=BielGuerreiro&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api?username=BielGuerreiro&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
     />
     <img 
         alt="Github status"
         height="195"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielguerreiro&theme=dark&custom_title=Tecnologias&langs_count=9"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielguerreiro&theme=radical&custom_title=Tecnologias&langs_count=9"
     />
 </div>
 
