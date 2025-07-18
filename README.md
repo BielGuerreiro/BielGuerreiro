@@ -84,7 +84,7 @@ O que estou fazendo agora:
     />
     <img 
         alt="Github status"
-        height="200"
+        height="195"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielguerreiro&theme=dark&custom_title=Tecnologias&langs_count=9"
     />
 </div>
