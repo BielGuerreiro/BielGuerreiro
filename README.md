@@ -3,10 +3,11 @@
 📚 Um pouco sobre mim:
 
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na UNICID.
-- 📖 Estou aprendendo MySQL, HTML, CSS e JavaScript, e passo boa parte do meu tempo colocando isso em prática.
+- 📖 Estou aprendendo MySQL, HTML, CSS, JavaScript,React e Android Studios e passo boa parte do meu tempo colocando isso em prática.
 
-O que estou fazendo agora:
-- 🚀 Estou desenvolvendo meu primeiro site, que espero colocar no ar em breve. É um projeto pessoal onde aplico tudo o que venho aprendendo e experimento novas ideias.
+Projeto:
+- 🚀 Meu primeiro site desenvolvido
+  https://www.lojinhadapolly.com.br/
 
 ### < Tecnologias />
 
