@@ -1,95 +1,49 @@
-# Olá, meu nome é Gabriel Guerreiro e sou apaixonado por tecnologia!
+# Olá, eu sou o Gabriel Guerreiro! 👋
 
-📚 Um pouco sobre mim:
+### 🎓 Desenvolvedor de Sistemas Graduado
 
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na UNICID.
-- 📖 Estou aprendendo MySQL, HTML, CSS, JavaScript,React e Android Studios e passo boa parte do meu tempo colocando isso em prática.
+Sou formado em **Análise e Desenvolvimento de Sistemas pela UNICID** e apaixonado por tecnologia. Atualmente, foco no desenvolvimento de sites modernos utilizando as linguagens padrão do mercado (HTML, CSS e JavaScript) integradas com bancos de dados robustos.
 
-Projeto:
-- 🚀 Meu primeiro site desenvolvido
-  https://www.lojinhadapolly.com.br/
+---
 
-### < Tecnologias />
+### 🚀 Sobre mim
 
-<img 
-    align="left"
-    alt="html"
-    title="html"
-    width="30px"
-    style="padding-right: 20px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+- 🎓 **Formação:** Graduado em Análise e Desenvolvimento de Sistemas (UNICID).
+- 💻 **Atuação:** Desenvolvimento de sites e aplicações com foco em performance e design.
+- 📖 **Stack Principal:** HTML, CSS, JavaScript, React e MySQL.
+- 📱 **Mobile:** Aprendizado contínuo em Android Studio.
+- 🚀 **Projeto em Destaque:** [Lojinha da Polly](https://www.lojinhadapolly.com.br/)
 
-<img 
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 20px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
+---
 
-    
-<img 
-    align="left"
-    alt="js"
-    title="js"
-    width="30px"
-    style="padding-right: 20px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+### 🛠️ Tecnologias e Ferramentas
 
-    
-<img 
-    align="left"
-    alt="mysql"
-    title="mysql"
-    width="40px"
-    style="padding-right: 20px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-
-    
-<img 
-    align="left"
-    alt="nodejs"
-    title="nodejs"
-    width="40px"
-    style="padding-right: 20px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-
-<img 
-    align="left"
-    alt="react"
-    title="react"
-    width="40px"
-    style="padding-right: 20px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
-    
-<br>
-
-##
-
-<div> 
-    <a href="https://instagram.com/guerreirxz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://discord.gg/579468974513848371" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:bielguerreiro2526@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/gabriel-guerreiro-46a5b225a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </div>
-          
-<br>
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img 
-        alt="Github status"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api?username=BielGuerreiro&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
-    />
-    <img 
-        alt="Github status"
-        height="195"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielguerreiro&theme=radical&custom_title=Tecnologias&langs_count=9"
-    />
+   
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BielGuerreiro&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BielGuerreiro&theme=radical&layout=compact&langs_count=9" />
+
 </div>
 
+---
 
+### 📫 Vamos nos conectar?
 
-
-
+<div align="left">
+  <a href="https://instagram.com/guerreirxz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gabriel-guerreiro-46a5b225a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:bielguerreiro2526@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
