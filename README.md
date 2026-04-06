@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel Guerreiro! 👋
 
-### 🎓 Desenvolvedor de Sistemas Graduado
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=550&lines=%F0%9F%8E%93+Desenvolvedor+de+Sistemas+Graduado;%F0%9F%8E%93+Desenvolvedor+Front-end;%F0%9F%8E%93+Graduado+em+ADS)
 
 Sou formado em **Análise e Desenvolvimento de Sistemas pela UNICID** e apaixonado por tecnologia. Atualmente, foco no desenvolvimento de sites modernos utilizando as linguagens padrão do mercado (HTML, CSS e JavaScript) integradas com bancos de dados robustos.
 
@@ -24,7 +24,10 @@ Sou formado em **Análise e Desenvolvimento de Sistemas pela UNICID** e apaixona
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
 ---
