@@ -11,7 +11,6 @@ Sou formado em **Análise e Desenvolvimento de Sistemas pela UNICID** e apaixona
 - 🎓 **Formação:** Graduado em Análise e Desenvolvimento de Sistemas (UNICID).
 - 💻 **Atuação:** Desenvolvimento de sites e aplicações com foco em performance e design.
 - 📖 **Stack Principal:** HTML, CSS, JavaScript, React e MySQL.
-- 📱 **Mobile:** Aprendizado contínuo em Android Studio.
 - 🚀 **Projeto em Destaque:** [Lojinha da Polly](https://www.lojinhadapolly.com.br/)
 
 ---
